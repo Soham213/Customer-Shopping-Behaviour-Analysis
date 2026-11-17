@@ -46,7 +46,7 @@ customer shopping behaviour analysis/
 ├── Behavior Dashboard.pbix                          Power BI dashboard
 ├── Behavior Dashboard.pdf                           dashboard export
 ├── Screenshots/                                     SQL query results (1.png to 13.png)
-├── Customer-Shopping-Behaviour-Analysis-ppt
+├── Customer-Shopping-Behaviour-Analysis-ppt.pdf
 └── Project Report.pdf    
 ```
 
